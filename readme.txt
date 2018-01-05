@@ -1,0 +1,1 @@
+To use this project run the CreateDB.php in the configs folder to create the database. (load the page from Hw3/index.php) The members that worked on this project are Adrian Vargas, Ross Wilkinson and Khoa Vo. 
